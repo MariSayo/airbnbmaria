@@ -1,6 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
 <head> 
     <meta charset="UTF-8">
-    <meta name="locale" content="en-GB">
-    
+    <meta name="viewport" content="width-device-width, initial-scale=1.0">
+    <title>Airbnbmobile</title>
+    <link rel="stylesheet" href="style.css">
+
 </head>
-<h1>attempt to make a git repository work</h1>
+<body>
+<div="dir-ltr">Where to?</div>
+  <div>
+    <span>Anywhere</span>
+    <span>Any week</span>
+    <span>Add guests</span>
+</div>
+
+<div>
+    <img src="assets/icon 1.png" alt="Image of ticket with a star inside" alt width="24" height="24">
+    <span>Icons</span>
+        <img src="assets/beachfront.png" alt="Palm trees and beachfront" alt width="24" height="24">
+        <span>Beachfront</span>
+           <img src="assets/Cabin.png" alt="Image of Cabin" alt width="24" height="24">
+           <span>Cabins</span>
+             <img src="assets/Pools.png" alt="Image of Pool" alt width="24" height="24">
+             <span>Amazing pools</span>
+</div>
+</body>
+</html>
