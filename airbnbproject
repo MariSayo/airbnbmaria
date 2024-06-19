@@ -16,6 +16,7 @@
 </div>
 
 <div>
+
  <img src="assets/icon ticket.png" alt="Image of ticket with a star inside" alt width="24" height="24">
  <span>Icons</span>
      <img src="assets/beachfront.png" alt="Palm trees and beachfront" alt width="24" height="24">
@@ -25,5 +26,32 @@
              <img src="assets/Pools.png" alt="Image of Pool" alt width="24" height="24">
              <span>Amazing pools</span>
 </div>
+
+<div>
+    <img class="picture" src="assets/Picture1france.png" alt="French building and statue overlooking river">
+</div>
+<div>
+  <div class="title" id="title-card">Open the Olympic Games at Musée d'Orsay</div>
+     <span class="sub-title">Hosted by Mathieu Lehanneur</span>
+         <div class="title2">Booking closed</div>
+</div>
+
+<div>
+<img class="picture" src="assets/Picture2playarea.png" alt="Inside out purple play area">
+</div>
+<div>
+    <div class="title">Make core memories</div>
+      <span class="sub-title">Hosted by Joy</span>
+         <div><span class="title3">£0 per guest</span></div>
+</div>
+
+<div>
+    <img class="picture" src="assets/Picture3rainhouse.png" alt="Prince's purple rainhouse">
+      <div class="title">Stay in Prince's Purple Rain house</div>
+         <span class="sub-title">Hosted by Wendy and Lisa</span>
+             <div class="title2">Coming August</div>
+
+</div>
+
 </body>
 </html>
