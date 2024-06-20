@@ -8,7 +8,7 @@
 
 </head>
 <body>
-<div="dir-ltr">Where to?</div>
+<div class="searchtitle">Where to?</div>
   <div>
     <span>Anywhere</span>
     <span>Any week</span>
