@@ -73,13 +73,79 @@
              <div class="title2">Coming October</div>
 </div>
 
-<div>
-    <img class="picture" src="assets/Picture6mansion.png" alt="High-tech roundtable surrounded by high-tech chairs">
-    </div>
+     <div>
+         <img class="picture" src="assets/Picture6mansion.png" alt="High-tech roundtable surrounded by high-tech chairs">
+             </div>
+                 </div>
+                     <div>
+                         <div class="title">Train at the X-Mansion</div>
+                             <div><span class="sub-title">Hosted by Jubilee</span></div>
+                                 <div class="title2">Booking closed</div>
+                                     </div>
 
-<div>
+      <div>
+         <img class="picture" src="assets/Picture7musee.png" alt="room with bed and a wall made up of a see-through clock face">
+             </div>
+                  <div>
+                     <div class="title">Wake up in the Musée d'Orsay</div>
+                         <div><Span class="sub-title">Hosted by Mathieu Lehanneur</Span></div>
+                              <div class="title2">Sold out</div>
+                                 </div>
 
-</div>
+     <div>
+         <img class="picture" src="assets/Picture8superhero.png" alt="superhero suit on display">
+             </div>
+                 <div>
+                     <div class="title">Design your Incredibles Supersuit</div>
+                         <div><span class="sub-title">Hosted by Edna Mode</span></div>
+                             <div class="title2">Sold out</div>
+                                 </div> 
 
+     <div>
+         <img class="picture" src="assets/Picture9xmen.png" alt="X-men Mansion">
+             </div>  
+                 <div> 
+                     <div class="title">Crash at the X-Mansion</div>
+                         <div><span class="sub-title">Hosted by Jubilee</span></div>
+                             <div class="title2">Sold out</div>
+                                 </div>
+
+     <div>
+         <img class="picture" src="assets/Picture10Kapoor.png" alt="Janhvi Kapoor sitting on sofa">
+             </div>          
+                 <div>
+                     <div class="title">Live like Bollywood star Janhvi Kapoor</div>         
+                         <div><span class="sub-title">Hosted by Janhvi Kapoor</span></div>
+                             <div class="title2">Sold out</div>
+                                 </div>
+
+     <div>
+         <img class="picture" src="assets/Picture11Feid.png" alt="Feid leaning against bus">
+             </div>
+                 <div>
+                     <div class="title">Go on tour with Feid</div>
+                          <div><span class="sub-title">Hosted by Feid</span></div>
+                             <div class="title2">Sold out</div>
+                                 </div> 
+
+     <div>
+         <img class="picture" src="assets/Picture12Lame.png" alt="Khaby Lame gaming on a chair">
+             </div>
+                 <div>
+                     <div class="title">Game with Khaby Lame</div>
+                         <div><span class="sub-title">Hosted by Khaby Lame</span></div>
+                             <div class="title2">Sold out</div>
+                                 </div>
+
+     <div>
+          <img class="picture" src="assets/Picture13UP.png" alt="House from movie UP lifted by crane">
+             </div>
+                 <div>
+                     <div class="title">Drift off in the Up house</div>
+                         <div><span class="sub-title">Hosted by Carl Fredricksen</span></div>
+                             <div class="title2">Sold out</div>
+                                 </div>
+
+                                 
 </body>
 </html>
