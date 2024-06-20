@@ -41,15 +41,43 @@
 </div>
 <div>
     <div class="title">Make core memories</div>
-      <span class="sub-title">Hosted by Joy</span>
+      <div><span class="sub-title">Hosted by Joy</span></div>
          <div><span class="title3">£0 per guest</span></div>
 </div>
 
 <div>
     <img class="picture" src="assets/Picture3rainhouse.png" alt="Prince's purple rainhouse">
+</div>
+<div>
       <div class="title">Stay in Prince's Purple Rain house</div>
-         <span class="sub-title">Hosted by Wendy and Lisa</span>
+         <div><span class="sub-title">Hosted by Wendy and Lisa</span></div>
              <div class="title2">Coming August</div>
+
+</div>
+
+<div>
+    <img class="picture" src="assets/Picture4KevinHart.png" alt="Kevin Hart with microhpone">
+</div>
+<div>
+       <div class="title">Go VIP with Kevin Hart</div>
+         <div><span class="sub-title">Hosted by Kevin Hart</span></div>
+             <div class="title2">Coming August</div>
+</div>
+
+<div>
+    <img class="picture" src="assets/Picture5Doja.png" alt="Doja putting on lipstick">
+</div>
+<div>
+      <div class="title">Join a living room session with Doja</div>
+         <div><span class="sub-title">Hosted by Doja Cat</span></div>
+             <div class="title2">Coming October</div>
+</div>
+
+<div>
+    <img class="picture" src="assets/Picture6mansion.png" alt="High-tech roundtable surrounded by high-tech chairs">
+    </div>
+
+<div>
 
 </div>
 
