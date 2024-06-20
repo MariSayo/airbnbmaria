@@ -3,3 +3,9 @@
     width: 327.333px;
     border-radius: 8px;
 }
+ul{
+    list-style: none;
+}
+ol{
+    list-style: none;
+}

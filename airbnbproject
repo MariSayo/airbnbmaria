@@ -8,6 +8,7 @@
 
 </head>
 <body>
+    <main id="site-content">
 <div class="searchtitle">Where to?</div>
   <div>
     <span>Anywhere</span>
@@ -145,7 +146,194 @@
                          <div><span class="sub-title">Hosted by Carl Fredricksen</span></div>
                              <div class="title2">Sold out</div>
                                  </div>
+<div>
+    <div style="display: contents;">
+        <div><h2 class="maintitle">Past Experiences</h2></div>
+</div>
 
+<div>
+    <img class="picture" src="assets/Picture14Ferrari.png" alt="Showroom of ferrari cars">
+       </div>
+           <div>
+               <div class="title">Spend the night in the Ferrari Museum</div>
+                   <div><span class="sub-title">Hosted by Marc Gené</span></div>
+                       <div class="title2">Sold out</div>
+                           </div>
                                  
+ <div>
+    <img class="picture" src="assets/Picture15shrek.png" alt="Shrek's swamp">
+       </div>
+           <div>
+               <div class="title">Shrek's Swamp</div>
+                   <div><span class="sub-title">Hosted by Donkey</span></div>
+                       <div class="title2">Sold out</div>
+                           </div>
+                                       
+ <div>
+    <img class="picture" src="assets/Picture16barbie.png" alt="Pink Malibu dreamhouse">
+       </div>
+           <div>
+               <div class="title">Barbie's Malibu DreamHouse, Ken's Way</div>
+                   <div><span class="sub-title">Hosted by Ken</span></div>
+                       <div class="title2">Sold out</div>
+                           </div>
+                        
+ <div>
+    <img class="picture" src="assets/Picture17pub.png" alt="white brick pub">
+       </div>
+           <div>
+               <div class="title">Ted Lasso's favorite Pub</div>
+                   <div><span class="sub-title">Hosted by Mae</span></div>
+                       <div class="title2">Sold out</div>
+                           </div>
+
+ <div>
+    <img class="picture" src="assets/Picture18retreat.png" alt="man leans against wooden wall">
+       </div>
+           <div>
+               <div class="title">Houseplant Retreat</div>
+                   <div><span class="sub-title">Hosted by Seth Rogan</span></div>
+                       <div class="title2">Sold out</div>
+                           </div>
+
+ <div>
+    <img class="picture" src="assets/Picture19homealone.png" alt="Mansion from home alone movies">
+       </div>
+           <div>
+               <div class="title">Home Alone Holiday</div>
+                   <div><span class="sub-title">Hosted by Buzz</span></div>
+                       <div class="title2">Sold out</div>
+                           </div>
+
+ <div>
+    <img class="picture" src="assets/Picture20blockbuster.png" alt="blockbuster logo on building at night">
+       </div>
+           <div>
+               <div class="title">The Last Blockbuster</div>
+                   <div><span class="sub-title">Hosted by Sandi</span></div>
+                       <div class="title2">Sold out</div>
+                           </div>
+
+<div>
+    <div style="display: contents;">
+        <div><h2 class="maintitle">Inspiration for Future getaways</h2></div>
+
+ <div>
+     <span>Popular</span>
+     <span>Historic</span>
+     <span>Coastal</span>
+     <span>Islands</span>
+         </div>
+
+<div>
+    <ul>
+        <li>
+            <span class="title2">Aberfeldy</span>
+            <span class="sub-title">Holiday rentals</span>
+        </li>
+        <li>
+            <span class="title2">Amsterdam</span>
+            <span class="sub-title">Flat rentals</span>
+        </li>
+        <li>
+            <span class="title2">Athens</span>
+            <span class="sub-title">House rentals</span>
+        </li>
+        <li>
+            <span class="title2">Aviemore</span>
+            <span class="sub-title">Cabin rentals</span>
+        </li>
+        <li>
+            <span class="title2">Bakewell</span>
+            <span class="sub-title">Cottage rentals</span>
+        </li>
+        <li>
+            <span class="title2">Barcelona</span>
+            <span class="sub-title">Flat rentals</span>
+        <li>
+            <span class="title2">Show more</span>
+        </li>
+    </ul>
+    </div>
+</main>
+
+<footer>
+    <div>
+        <div>
+        <span><h2>Site Footer</h2></span> <!--need to hide this-->
+        </div>
+        <div>
+            <section>
+     <h3 class="title2">Support</h3>
+     <ul>
+     <li><span class="supportpoint">Help Centre</span></li>
+     <li><span class="supportpoint">AirCover</span></li>
+     <li><span class="supportpoint">Anti-Discrimination</span></li>
+     <li><span class="supportpoint">Disability support</span></li>
+     <li><span class="supportpoint">Cancellation options</span></li>
+     <li><span class="supportpoint">Report neighbourhood concern</span></li>
+    </ul>
+            </section>
+            <section>
+     <h3 class="title2">Hosting</h3>
+     <ul>
+        <li><span class="supportpoint">Airbnb your home</span></li>
+        <li><span class="supportpoint">AirCover for Hosts</span></li>
+        <li><span class="supportpoint">Hosting Resources</span></li>
+        <li><span class="supportpoint">Community Forum</span></li>
+        <li><span class="supportpoint">Hosting Responsibly</span></li>
+        <li><span class="supportpoint">Join a free Hosting class</span></li>
+    </ul>
+            </section>
+            <section>
+                <h3 class="title2">Airbnb</h3>
+                <ul>
+                   <li><span class="supportpoint">Airbnb</span></li>
+                   <li><span class="supportpoint">New Features</span></li>
+                   <li><span class="supportpoint">Careers</span></li>
+                   <li><span class="supportpoint">Investors</span></li>
+                   <li><span class="supportpoint">Gift cards</span></li>
+                   <li><span class="supportpoint">Airbnb.org emergency stays</span></li>
+               </ul>
+                       </section>
+    </div>
+
+    <div>
+        <span>Footer Section</span>
+        <section>
+            <div>
+                <span>English (GB)</span>
+                <span>£</span><span>GBP</span>
+            </div>
+            <div>
+                <div>© 2024 Airbnb, Inc.</div>
+                <div>
+                    <span>
+                        <ol>
+                            <li><span class="supportpoint">Privacy</span><span class="supportpoint">·</span></li>
+                            <li><span class="supportpoint">Terms</span><span class="supportpoint">·</span></li>
+                            <li><span class="supportpoint">Sitemap</span><span class="supportpoint">·</span></li>
+                            <li><span class="supportpoint">UK Modern Slavery act</span><span class="supportpoint">·</span></li>
+                            <li><span class="supportpoint">Company details</span><span class="supportpoint">·</span></li>
+                            <li><span class="supportpoint">Airbnb UK Limited S.172 Statement</span><span class="supportpoint">·</span></li>
+                            <li><span class="supportpoint">Airbnb Payments UK S.172 Statement</span></li>
+                        </ol>
+                    </span>
+                </div>
+            </div>
+        </section>
+    </div>
+            
+ </div>
+</footer>
+
+    <div class="s1">Explore</div>
+    <div class="s1">Wishlists</div>
+    <div class="s1">Log in</div>
+    
+
+
+
+</div>
 </body>
 </html>
