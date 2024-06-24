@@ -1,18 +1,149 @@
 body {
-    font-family: ;
+    font-family: "Montserrat", sans-serif;
+    font-style: normal;
+    color: rgb(34, 34, 34);
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+  }
+
+main {
+    margin-top: 24px;
+    margin-bottom: 32px;
+    padding-left: 24px;
+    padding-right: 24px;
+    text-size-adjust: 100%;
+}
+
+.section1 {
+    display: grid;
+    grid-template-columns:50px 250px;
+    
+ 
+}
+
+.section2 {
+    display: grid;
+    grid-template-rows: 65px;
+    grid-template-columns: 65px 65px 65px 65px 65px;
+    grid-gap: 1em;
+}
+
+.centered-content {
+    text-align: center;
+}
+.centered-content img {
+    display: block;
+    margin: 0;
+    max-width: 100%;
+    height: auto;
+    
+}
+.centered-content .sidescroll {
+    margin-top: 5px;
+    font-size: 12px;
+}
+
+.picturecolumn {
+    display: grid;
+    grid-template-rows: 380px 380px 380px 380px 380px 380px 380px 380px 380px 380px 380px;
+    grid-gap: 2.5em;
+    
 }
 
 
+.searchtitle { 
+    display: block; 
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 20px;
+    text-align: start;
+    text-indent: 0px;
+    letter-spacing: normal;
+    font-stretch: 100%;
+    font-style: normal;
+    word-spacing: 0px;
+    }
 
+.s2 { 
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 16px;
+    min-width: 50px;
+    text-align: start;
+    text-indent: 0px;
+    letter-spacing: normal;
+    font-stretch: 100%;
+    font-style: normal;
+    word-spacing: 0px;
+    margin: 3px;
+}
+
+.sidescroll {
+    box-sizing: border-box;
+    color: rgb(0, 0, 0);
+    display: inline-block;
+    font-size: 12px;
+    font-weight: 500;
+    height: 16px;
+    letter-spacing: normal;
+    line-break: strict;
+    line-height: 16px;
+    text-align: center;
+    text-size-adjust: 100%;
+}
 
 .picture {
     height: 310.958px;
     width: 327.333px;
-    border-radius: 8px;
+    border-radius: 20px; 
 }
+
+.title {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    display: block;
+    font-size: 15px;
+    font-weight: 600;
+    height: 19px;
+    line-break: strict;
+    line-height: 19px;
+    opacity: 1;
+}
+
+.title2 {
+    box-sizing: border-box;
+    color: rgb(34, 34, 34);
+    display: block;
+    font-size: 15px;
+    font-weight: 600;
+    height: 19px;
+    line-break: strict;
+    line-height: 19px;
+    opacity: 1;
+}
+
+
 ul{
     list-style: none;
 }
 ol{
     list-style: none;
+}
+
+
+
+.s2 {
+    font-size: ;
+    font-weight: ;
+}
+
+.supportpoint {
+    margin-inline: 10px;
+}
+
+.s1 {
+    display: inline-block;
+    margin-inline: 20px;
 }

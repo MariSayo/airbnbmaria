@@ -2,45 +2,71 @@
 <html lang="en">
 <head> 
     <meta charset="UTF-8">
-    <meta name="viewport" content="width-device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Airbnbmobile</title>
     <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
 
 </head>
 <body>
-    <main id="site-content">
-<div class="searchtitle">Where to?</div>
-  <div>
-    <span>Anywhere</span>
-    <span>Any week</span>
-    <span>Add guests</span>
+   <main>
+
+    
+<div class="section1">
+        
+        <svg height="20px" width="20px" version="1.1" id="_x32_" xmlns="http://www.w3.org/2000/svg" 
+        xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 512 512" xml:space="preserve" 
+        fill="#000000"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" 
+        stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"> <style type="text/css"> .st0{fill:#000000;} </style> <g> <path class="st0" d="M376.324,312.508c49.638-78.774,40.238-184.326-28.306-252.871c-79.507-79.515-208.872-79.515-288.388,0 c-79.507,79.516-79.507,208.873,0,288.379c68.536,68.544,174.115,77.935,252.88,28.306l135.668,135.676L512,448.186 L376.324,312.508z M296.543,296.542c-51.121,51.139-134.308,51.139-185.439,0c-51.121-51.121-51.112-134.299,0.009-185.43 c51.122-51.121,134.309-51.13,185.43-0.008C347.665,162.243,347.665,245.421,296.543,296.542z"></path> </g> </g></svg>
+
+      <div>
+  
+    <div class="searchtitle">Where to?</div>
+    <span class="s2">Anywhere</span><span class="s2">•</span>
+    <span class="s2">Any week</span><span class="s2">•</span>
+    <span class="s2">Add guests</span>
+      </div>
+     
 </div>
-
-<div>
-
+<div class="centered-content">
+<div class="section2">
+ <div>
  <img src="assets/icon ticket.png" alt="Image of ticket with a star inside" alt width="24" height="24">
- <span>Icons</span>
+ <span class="sidescroll">Icons</span>
+ </div>
+     <div>
      <img src="assets/beachfront.png" alt="Palm trees and beachfront" alt width="24" height="24">
-     <span>Beachfront</span>
+     <span class="sidescroll">Beachfront</span>
+     </div>
+         <div>
          <img src="assets/Cabin.png" alt="Image of Cabin" alt width="24" height="24">
-         <span>Cabins</span>
+         <span class="sidescroll">Cabins</span>
+         </div>
+             <div>
              <img src="assets/Pools.png" alt="Image of Pool" alt width="24" height="24">
-             <span>Amazing pools</span>
+             <span class="sidescroll">Amazing pools</span>
+             </div>
+                 <div>
+                 <img src="assets/keysnew.png" alt="Shiny keys" alt width="24" height="24">
+                 <span class="sidescroll">New</span>
+                 </div>
+
+                 
+</div>
 </div>
 
+<div class="picturecolumn">
 <div>
     <img class="picture" src="assets/Picture1france.png" alt="French building and statue overlooking river">
-</div>
-<div>
-  <div class="title" id="title-card">Open the Olympic Games at Musée d'Orsay</div>
+  <div class="title">Open the Olympic Games at Musée d'Orsay</div>
      <span class="sub-title">Hosted by Mathieu Lehanneur</span>
          <div class="title2">Booking closed</div>
 </div>
 
 <div>
 <img class="picture" src="assets/Picture2playarea.png" alt="Inside out purple play area">
-</div>
-<div>
     <div class="title">Make core memories</div>
       <div><span class="sub-title">Hosted by Joy</span></div>
          <div><span class="title3">£0 per guest</span></div>
@@ -48,8 +74,6 @@
 
 <div>
     <img class="picture" src="assets/Picture3rainhouse.png" alt="Prince's purple rainhouse">
-</div>
-<div>
       <div class="title">Stay in Prince's Purple Rain house</div>
          <div><span class="sub-title">Hosted by Wendy and Lisa</span></div>
              <div class="title2">Coming August</div>
@@ -58,8 +82,6 @@
 
 <div>
     <img class="picture" src="assets/Picture4KevinHart.png" alt="Kevin Hart with microhpone">
-</div>
-<div>
        <div class="title">Go VIP with Kevin Hart</div>
          <div><span class="sub-title">Hosted by Kevin Hart</span></div>
              <div class="title2">Coming August</div>
@@ -67,8 +89,6 @@
 
 <div>
     <img class="picture" src="assets/Picture5Doja.png" alt="Doja putting on lipstick">
-</div>
-<div>
       <div class="title">Join a living room session with Doja</div>
          <div><span class="sub-title">Hosted by Doja Cat</span></div>
              <div class="title2">Coming October</div>
@@ -76,9 +96,6 @@
 
      <div>
          <img class="picture" src="assets/Picture6mansion.png" alt="High-tech roundtable surrounded by high-tech chairs">
-             </div>
-                 </div>
-                     <div>
                          <div class="title">Train at the X-Mansion</div>
                              <div><span class="sub-title">Hosted by Jubilee</span></div>
                                  <div class="title2">Booking closed</div>
@@ -86,8 +103,6 @@
 
       <div>
          <img class="picture" src="assets/Picture7musee.png" alt="room with bed and a wall made up of a see-through clock face">
-             </div>
-                  <div>
                      <div class="title">Wake up in the Musée d'Orsay</div>
                          <div><Span class="sub-title">Hosted by Mathieu Lehanneur</Span></div>
                               <div class="title2">Sold out</div>
@@ -95,8 +110,6 @@
 
      <div>
          <img class="picture" src="assets/Picture8superhero.png" alt="superhero suit on display">
-             </div>
-                 <div>
                      <div class="title">Design your Incredibles Supersuit</div>
                          <div><span class="sub-title">Hosted by Edna Mode</span></div>
                              <div class="title2">Sold out</div>
@@ -104,8 +117,6 @@
 
      <div>
          <img class="picture" src="assets/Picture9xmen.png" alt="X-men Mansion">
-             </div>  
-                 <div> 
                      <div class="title">Crash at the X-Mansion</div>
                          <div><span class="sub-title">Hosted by Jubilee</span></div>
                              <div class="title2">Sold out</div>
@@ -113,8 +124,6 @@
 
      <div>
          <img class="picture" src="assets/Picture10Kapoor.png" alt="Janhvi Kapoor sitting on sofa">
-             </div>          
-                 <div>
                      <div class="title">Live like Bollywood star Janhvi Kapoor</div>         
                          <div><span class="sub-title">Hosted by Janhvi Kapoor</span></div>
                              <div class="title2">Sold out</div>
@@ -122,8 +131,6 @@
 
      <div>
          <img class="picture" src="assets/Picture11Feid.png" alt="Feid leaning against bus">
-             </div>
-                 <div>
                      <div class="title">Go on tour with Feid</div>
                           <div><span class="sub-title">Hosted by Feid</span></div>
                              <div class="title2">Sold out</div>
@@ -131,8 +138,6 @@
 
      <div>
          <img class="picture" src="assets/Picture12Lame.png" alt="Khaby Lame gaming on a chair">
-             </div>
-                 <div>
                      <div class="title">Game with Khaby Lame</div>
                          <div><span class="sub-title">Hosted by Khaby Lame</span></div>
                              <div class="title2">Sold out</div>
@@ -140,12 +145,12 @@
 
      <div>
           <img class="picture" src="assets/Picture13UP.png" alt="House from movie UP lifted by crane">
-             </div>
-                 <div>
                      <div class="title">Drift off in the Up house</div>
                          <div><span class="sub-title">Hosted by Carl Fredricksen</span></div>
                              <div class="title2">Sold out</div>
                                  </div>
+</div>     
+</div>                   
 <div>
     <div style="display: contents;">
         <div><h2 class="maintitle">Past Experiences</h2></div>
@@ -213,16 +218,16 @@
                    <div><span class="sub-title">Hosted by Sandi</span></div>
                        <div class="title2">Sold out</div>
                            </div>
-
+                        </main>
 <div>
     <div style="display: contents;">
         <div><h2 class="maintitle">Inspiration for Future getaways</h2></div>
 
  <div>
-     <span>Popular</span>
-     <span>Historic</span>
-     <span>Coastal</span>
-     <span>Islands</span>
+     <span class="s3">Popular</span>
+     <span class="s3">Historic</span>
+     <span class="s3">Coastal</span>
+     <span class="s3">Islands</span>
          </div>
 
 <div>
@@ -266,34 +271,34 @@
             <section>
      <h3 class="title2">Support</h3>
      <ul>
-     <li><span class="supportpoint">Help Centre</span></li>
-     <li><span class="supportpoint">AirCover</span></li>
-     <li><span class="supportpoint">Anti-Discrimination</span></li>
-     <li><span class="supportpoint">Disability support</span></li>
-     <li><span class="supportpoint">Cancellation options</span></li>
-     <li><span class="supportpoint">Report neighbourhood concern</span></li>
+     <li><span class="s4">Help Centre</span></li>
+     <li><span class="s4">AirCover</span></li>
+     <li><span class="s4">Anti-Discrimination</span></li>
+     <li><span class="s4">Disability support</span></li>
+     <li><span class="s4">Cancellation options</span></li>
+     <li><span class="s4">Report neighbourhood concern</span></li>
     </ul>
             </section>
             <section>
      <h3 class="title2">Hosting</h3>
      <ul>
-        <li><span class="supportpoint">Airbnb your home</span></li>
-        <li><span class="supportpoint">AirCover for Hosts</span></li>
-        <li><span class="supportpoint">Hosting Resources</span></li>
-        <li><span class="supportpoint">Community Forum</span></li>
-        <li><span class="supportpoint">Hosting Responsibly</span></li>
-        <li><span class="supportpoint">Join a free Hosting class</span></li>
+        <li><span class="s4">Airbnb your home</span></li>
+        <li><span class="s4">AirCover for Hosts</span></li>
+        <li><span class="s4">Hosting Resources</span></li>
+        <li><span class="s4">Community Forum</span></li>
+        <li><span class="s4">Hosting Responsibly</span></li>
+        <li><span class="s4">Join a free Hosting class</span></li>
     </ul>
             </section>
             <section>
                 <h3 class="title2">Airbnb</h3>
                 <ul>
-                   <li><span class="supportpoint">Airbnb</span></li>
-                   <li><span class="supportpoint">New Features</span></li>
-                   <li><span class="supportpoint">Careers</span></li>
-                   <li><span class="supportpoint">Investors</span></li>
-                   <li><span class="supportpoint">Gift cards</span></li>
-                   <li><span class="supportpoint">Airbnb.org emergency stays</span></li>
+                   <li><span class="s4">Airbnb</span></li>
+                   <li><span class="s4">New Features</span></li>
+                   <li><span class="s4">Careers</span></li>
+                   <li><span class="s4">Investors</span></li>
+                   <li><span class="s4">Gift cards</span></li>
+                   <li><span class="s4">Airbnb.org emergency stays</span></li>
                </ul>
                        </section>
     </div>
@@ -302,6 +307,7 @@
         <span>Footer Section</span>
         <section>
             <div>
+                <svg width="16px" height="16px" viewBox="-0.5 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"> <path d="M12 22.3201C17.5228 22.3201 22 17.8429 22 12.3201C22 6.79722 17.5228 2.32007 12 2.32007C6.47715 2.32007 2 6.79722 2 12.3201C2 17.8429 6.47715 22.3201 12 22.3201Z" stroke="#000000" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path> <path d="M2 12.3201H22" stroke="#000000" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path> <path d="M12 22.3201C13.933 22.3201 15.5 17.8429 15.5 12.3201C15.5 6.79722 13.933 2.32007 12 2.32007C10.067 2.32007 8.5 6.79722 8.5 12.3201C8.5 17.8429 10.067 22.3201 12 22.3201Z" stroke="#000000" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path> </g></svg>
                 <span>English (GB)</span>
                 <span>£</span><span>GBP</span>
             </div>
