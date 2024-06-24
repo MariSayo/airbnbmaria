@@ -11,7 +11,7 @@
 
 </head>
 <body>
-   <main>
+ <main>
 
     
 <div class="section1">
@@ -156,10 +156,9 @@
         <div><h2 class="maintitle">Past Experiences</h2></div>
 </div>
 
+<div class="picturecolumn2">
 <div>
     <img class="picture" src="assets/Picture14Ferrari.png" alt="Showroom of ferrari cars">
-       </div>
-           <div>
                <div class="title">Spend the night in the Ferrari Museum</div>
                    <div><span class="sub-title">Hosted by Marc Gené</span></div>
                        <div class="title2">Sold out</div>
@@ -167,8 +166,6 @@
                                  
  <div>
     <img class="picture" src="assets/Picture15shrek.png" alt="Shrek's swamp">
-       </div>
-           <div>
                <div class="title">Shrek's Swamp</div>
                    <div><span class="sub-title">Hosted by Donkey</span></div>
                        <div class="title2">Sold out</div>
@@ -176,8 +173,6 @@
                                        
  <div>
     <img class="picture" src="assets/Picture16barbie.png" alt="Pink Malibu dreamhouse">
-       </div>
-           <div>
                <div class="title">Barbie's Malibu DreamHouse, Ken's Way</div>
                    <div><span class="sub-title">Hosted by Ken</span></div>
                        <div class="title2">Sold out</div>
@@ -185,8 +180,6 @@
                         
  <div>
     <img class="picture" src="assets/Picture17pub.png" alt="white brick pub">
-       </div>
-           <div>
                <div class="title">Ted Lasso's favorite Pub</div>
                    <div><span class="sub-title">Hosted by Mae</span></div>
                        <div class="title2">Sold out</div>
@@ -194,8 +187,6 @@
 
  <div>
     <img class="picture" src="assets/Picture18retreat.png" alt="man leans against wooden wall">
-       </div>
-           <div>
                <div class="title">Houseplant Retreat</div>
                    <div><span class="sub-title">Hosted by Seth Rogan</span></div>
                        <div class="title2">Sold out</div>
@@ -203,8 +194,6 @@
 
  <div>
     <img class="picture" src="assets/Picture19homealone.png" alt="Mansion from home alone movies">
-       </div>
-           <div>
                <div class="title">Home Alone Holiday</div>
                    <div><span class="sub-title">Hosted by Buzz</span></div>
                        <div class="title2">Sold out</div>
@@ -212,14 +201,15 @@
 
  <div>
     <img class="picture" src="assets/Picture20blockbuster.png" alt="blockbuster logo on building at night">
-       </div>
-           <div>
                <div class="title">The Last Blockbuster</div>
                    <div><span class="sub-title">Hosted by Sandi</span></div>
                        <div class="title2">Sold out</div>
                            </div>
-                        </main>
-<div>
+
+</div>
+</main>
+
+<div class="main2">
     <div style="display: contents;">
         <div><h2 class="maintitle">Inspiration for Future getaways</h2></div>
 
@@ -260,14 +250,13 @@
         </li>
     </ul>
     </div>
-</main>
+    </div>
+</div>
 
+<div class="main3">
 <footer>
     <div>
-        <div>
-        <span><h2>Site Footer</h2></span> <!--need to hide this-->
-        </div>
-        <div>
+        
             <section>
      <h3 class="title2">Support</h3>
      <ul>
@@ -303,8 +292,9 @@
                        </section>
     </div>
 
+
+    
     <div>
-        <span>Footer Section</span>
         <section>
             <div>
                 <svg width="16px" height="16px" viewBox="-0.5 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"> <path d="M12 22.3201C17.5228 22.3201 22 17.8429 22 12.3201C22 6.79722 17.5228 2.32007 12 2.32007C6.47715 2.32007 2 6.79722 2 12.3201C2 17.8429 6.47715 22.3201 12 22.3201Z" stroke="#000000" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path> <path d="M2 12.3201H22" stroke="#000000" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path> <path d="M12 22.3201C13.933 22.3201 15.5 17.8429 15.5 12.3201C15.5 6.79722 13.933 2.32007 12 2.32007C10.067 2.32007 8.5 6.79722 8.5 12.3201C8.5 17.8429 10.067 22.3201 12 22.3201Z" stroke="#000000" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path> </g></svg>
@@ -330,16 +320,14 @@
         </section>
     </div>
             
- </div>
 </footer>
-
+<div>
     <div class="s1">Explore</div>
     <div class="s1">Wishlists</div>
     <div class="s1">Log in</div>
-    
-
-
-
 </div>
+    
+</div>
+
 </body>
 </html>
