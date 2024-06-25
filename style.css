@@ -25,6 +25,7 @@ main {
     padding-inline-end: 24px;
     padding-inline-start: 24px;
     text-size-adjust: 100%;
+    background: #f7f7f7;
 }
 
 .main3 {
@@ -34,6 +35,7 @@ main {
     padding-inline-end: 24px;
     padding-inline-start: 24px;
     text-size-adjust: 100%;
+    background: #f7f7f7;
 }
 
 
@@ -44,7 +46,7 @@ main {
     padding: 10px;
     border-radius: 28px;
     background:#ffffff;
-    box-shadow: #f2f2f2 0px 5px 15px 1px;
+    box-shadow: #f2f2f2 0px 5px 15px 2px;
 }
 
 
@@ -70,6 +72,8 @@ main {
     margin-top: 5px;
     font-size: 12px;
 }
+
+
 
 .picturecolumn {
     display: grid;
@@ -204,6 +208,84 @@ margin-inline-start: 0px;
 margin-top: 0px;
 }
 
+.s3 {
+    font-size:14px;
+    font-weight: 500px;
+letter-spacing: normal;
+line-break: strict;
+line-height: 18px;
+margin-bottom: 6px;
+margin-left: 0px;
+margin-right: 6px;
+margin-top: 6px;
+outline-color: rgb(106, 106, 106);
+outline-style: none;
+outline-width: 0px;
+padding-block-end: 10px;
+padding-block-start: 10px;
+padding-bottom: 10px;
+padding-inline-end: 10px;
+padding-inline-start: 10px;
+padding-left: 10px;
+padding-right: 10px;
+padding-top: 10px;
+position: relative;
+text-align: center;
+
+}
+
+.s4 {
+    box-sizing: border-box;
+color: rgb(34, 34, 34);
+display: list-item;
+font-size: 14px;
+height: 20.0104px;
+line-break: strict;
+line-height: 20.02px;
+list-style-image: none;
+list-style-position: outside;
+list-style-type: none;
+text-align: left;
+}
+
+
+.f1 {
+    display: flex;
+    justify-content:space-around;
+}
+
+.f2 {
+    display: grid;
+    grid-template-rows: 50px 50px 50px;
+    grid-template-columns: 130px 130px;
+    grid-gap: 1.5em;
+    margin-left: -30px;
+}
+
+.s4grid {
+    display: grid;
+    grid-template-rows: 20px 20px 20px 20px 20px 20px;
+    grid-template-columns: 250px;
+    grid-gap: 0.5em;
+    margin-left: -40px;
+    
+}
+
+.s5grid {
+    display: grid;
+    grid-template-rows: 20px 20px 20px 20px 20px 20px;
+    grid-template-columns: 250px;
+    grid-gap: 0.5em;
+    margin-left: -40px;
+}
+
+.s6grid {
+    display: grid;
+    grid-template-rows: 20px 20px 20px 20px 20px 20px;
+    grid-template-columns: 250px;
+    grid-gap: 0.5em;
+    margin-left: -40px;
+}
 
 ul{
     list-style: none;

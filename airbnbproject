@@ -213,7 +213,7 @@
     <div style="display: contents;">
         <div><h2 class="maintitle2">Inspiration for Future getaways</h2></div>
 
- <div>
+ <div class="f1">
      <span class="s3">Popular</span>
      <span class="s3">Historic</span>
      <span class="s3">Coastal</span>
@@ -222,6 +222,7 @@
 
 <div>
     <ul>
+        <Div class="f2">
         <li>
             <span class="title2">Aberfeldy</span>
             <span class="sub-title">Holiday rentals</span>
@@ -245,12 +246,19 @@
         <li>
             <span class="title2">Barcelona</span>
             <span class="sub-title">Flat rentals</span>
+        </li>
+        <li>
+            <span class="title2">Bath</span>
+            <span class="sub-title">Flat rentals</span>
+        </li>
         <li>
             <span class="title2">Show more</span>
+            <svg width="12px" height="12px" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"> <path d="M7 10L12 15L17 10" stroke="#000000" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path> </g></svg>
         </li>
+    </div>
     </ul>
-    </div>
-    </div>
+</div>
+
 </div>
 
 <div class="main3">
@@ -259,7 +267,8 @@
         
             <section>
      <h3 class="title2">Support</h3>
-     <ul>
+
+     <ul class="s4grid">
      <li><span class="s4">Help Centre</span></li>
      <li><span class="s4">AirCover</span></li>
      <li><span class="s4">Anti-Discrimination</span></li>
@@ -268,9 +277,11 @@
      <li><span class="s4">Report neighbourhood concern</span></li>
     </ul>
             </section>
+
             <section>
      <h3 class="title2">Hosting</h3>
-     <ul>
+
+     <ul class="s5grid">
         <li><span class="s4">Airbnb your home</span></li>
         <li><span class="s4">AirCover for Hosts</span></li>
         <li><span class="s4">Hosting Resources</span></li>
@@ -279,9 +290,11 @@
         <li><span class="s4">Join a free Hosting class</span></li>
     </ul>
             </section>
+            
             <section>
                 <h3 class="title2">Airbnb</h3>
-                <ul>
+                <ul class="s6grid">
+                    
                    <li><span class="s4">Airbnb</span></li>
                    <li><span class="s4">New Features</span></li>
                    <li><span class="s4">Careers</span></li>
